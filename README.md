@@ -8,7 +8,7 @@ LittleFrog User Manual:
 1 - Create a Extern API Access
 
 2 - Add appId & secret in LittleFrogAPICredential asset in Config folder
-(you have to create a folder named "Config" with a credential named "LittleFrogAPICredential". You can change the projet for change this names)
+(you have to create a Orchestrator folder named "Config" with a credential named "LittleFrogAPICredential". You can change the projet for change this names)
 
 3 - Enjoy
 
