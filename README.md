@@ -1,4 +1,4 @@
-# LittleFrog for UiPath Coud
+# LittleFrog for UiPath Cloud
 Download and open Orchestrator packages from your UiPath Cloud Plateform
 
 This version is for UiPath Cloud Plateform only
